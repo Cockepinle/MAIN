@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model":  "mptmod:block/ananas_block"}
+  }
+}

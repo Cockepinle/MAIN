@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model":  "mptmod:block/spanch_block"}
+  }
+}

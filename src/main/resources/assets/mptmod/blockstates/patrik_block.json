@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model":  "mptmod:block/patrik_block"}
+  }
+}
